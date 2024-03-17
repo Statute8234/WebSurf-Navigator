@@ -7,7 +7,7 @@ This Python script enables users to quickly search for images or videos related 
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 6/10](#Rating)
+- [Rating: 5/10](#Rating)
 
 # About
 
@@ -23,4 +23,4 @@ random, webbrowser
 
 # Rating
 
-The script, while useful for web browsing and conversion tasks, could benefit from enhanced usability and efficiency. Enhancements like error handling, user prompts, and a cleaner interface could improve the overall experience, while compatibility with various search engines and video platforms could expand its appeal.
+For its functionality, random selection, and user interface. However, it lacks clearer instructions and prompts, making it difficult to understand at a glance. The user interface could be improved with clearer instructions and prompts. Some parts of the code are repeated, which could be refactored into a function to reduce redundancy. The code does not handle unexpected user inputs well, and the script's hardcoded URLs make them less flexible. Security concerns arise from opening URLs without sanitizing user inputs, especially if they are user-controlled. Simplicity and modularization could improve maintainability and readability. The inconsistent naming convention for search engines could be improved by standardizing them. Addressing these areas can enhance the code's readability, maintainability, and user experience. By addressing these areas, the code can be improved for a more robust and user-friendly experience.
